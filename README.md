@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lloydvanwees
 - 🌱 I’m currently completing research with regards to my PhD
 - 💞️ I’m looking to collaborate on any interesting projects!
-- 📫 How to reach me: lloydvanwees@gmail.com
+- 📫 How to reach me: lloydvanwees@gmail.com | linkedin.com/in/lloydvanwees
 
 <!---
 lloydvanwees/lloydvanwees is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
